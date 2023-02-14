@@ -50,7 +50,6 @@ async def semaphore(sem, session, url):
 
 async def gather_data():
     """Подготавливаем задачи для запросов"""
-
     tasks = []
     persones = []
 
