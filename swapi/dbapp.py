@@ -1,6 +1,5 @@
 import asyncio
 import time
-from pprint import pprint
 
 import aiosqlite
 
